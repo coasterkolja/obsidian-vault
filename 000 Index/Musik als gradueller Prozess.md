@@ -36,3 +36,8 @@ Zusammenfassend kann man sagen, dass Reichs graduelle musikalische Prozesse und 
 	- Psycho-akustische Nebenerscheinungen - des absichtsvoll konzipierten Prozesses - spielen eine wichtige Rolle, z.B. Nebenmelodien, die man bei repetierten Melodiemodellen wahrnehmen kann
 - das (wiederholte) Verfolgen/Hören extrem gradueller Prozesse macht die Ohren für solche Phänomene empfänglich
 - Improvisation wird ausgeschlossen
+
+**Stücke**
+- Different Trains
+- Piano Phase
+- Clapping Music
