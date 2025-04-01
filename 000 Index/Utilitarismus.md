@@ -6,6 +6,7 @@ tags:
   - "#schule"
 created: 2025-03-24
 ---
+
 ## Die vier Prinzipien des Utilitarismus
 ### a)
 1. Folgenprinzip (Konsequenzenprinzip)
@@ -24,4 +25,11 @@ created: 2025-03-24
 | Nutzenprinzip<br>(Utilitätsprinzip)    | Die Folgen werden an ihrem Nutzen (utilitas) gemessen.                                                                                                             | für das WOHLERGEHEN                                     |
 | Universalistisches Prinzip             | Nicht das Wohlergehen Einzelner oder bestimmter Gruppen ist entscheidend, sondern das aller von der Handlung Betroffenen.                                          | ALLER BETROFFENEN                                       |
 | Hedonistisches Prinzip                 | Der Nutzen besteht in der maximalen Befriedigung menschlicher Bedürfnisse und Interessen (Glück/Gratifikationswert); Lust soll maximiert, Unlust minimiert werden. | OPTIMAL sind.                                           |
-- [ ] #task AB Nr. 4  [due:: 2025-03-25]
+- [x] #task AB Nr. 4  [due:: 2025-03-25]  [completion:: 2025-04-01]
+
+- Bewertungsskala von -5 bis +5 in  in einer Tabelle
+
+
+| Personen | Markus | Kinder | Maria | Summe |
+| -------- | ------ | ------ | ----- | ----- |
+|          |        |        |       |       |
