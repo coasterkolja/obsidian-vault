@@ -59,4 +59,4 @@ Der Staat sichert in der sozialen Marktwirtschaft den Wettbewerb, indem er Monop
 - Grund und Boden kann vergesellschaftet werden
 - demokratischer und sozialer Bundesstaat
 
-- [ ] #task S. 175/176 Materialien sichten und verstehen  [due:: 2025-03-27]
+- [x] #task S. 175/176 Materialien sichten und verstehen  [due:: 2025-03-27]  [completion:: 2025-04-01]
