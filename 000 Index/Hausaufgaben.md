@@ -10,7 +10,6 @@ created: 2025-03-07
 ```tasks
 not done
 ```
-
 ## Erledigt
 ```tasks
 done
