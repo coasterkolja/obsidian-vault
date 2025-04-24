@@ -22,6 +22,7 @@ created: 2025-03-20
 - **Leistungsgerechtigkeit** – Einkommen und Wohlstand sollen sich am individuellen Einsatz orientieren, aber soziale Ungleichheit darf nicht zu groß werden.
 - **Wettbewerbsschutz** – Der Staat verhindert Kartelle und Monopole, um faire Marktbedingungen sicherzustellen.
 - **Eigentumsprinzip**
+- **Sozialprinzip**
 - **Haftungsprinzip**
 - **Marktkonformitätsprinzip**
 - **Wettbewerbsprinzip**
