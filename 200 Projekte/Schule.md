@@ -1,0 +1,1 @@
+Privates Dashboard für Klausuren, Hausaufgaben, Stundenpläne, Kurse usw.

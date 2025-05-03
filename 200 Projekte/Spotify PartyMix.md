@@ -1,0 +1,1 @@
+Spotify Gruppensessions bei der der Teilnehemer Songs zur Warteschlange hinzufügen kann, jedoch hat nur der Host zugriff auf Playback Funktionalitäten
