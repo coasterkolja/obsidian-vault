@@ -1,0 +1,24 @@
+- **Increased Government Debt**
+    - Massive bailouts and stimulus packages led to sharp increases in public debt in many countries.
+    - Governments faced long-term fiscal challenges due to interest payments and budget deficits.
+- **Tighter Financial Regulation**
+    - Introduction of new regulations like the Dodd-Frank Act (US), Basel III (international).
+    - Increased oversight of banks, especially in areas like capital requirements and risk management.
+- **Loss of Trust in Financial Institutions**
+    - Public confidence in banks, credit-rating agencies, and regulators significantly eroded.
+    - Many people remain skeptical of "too big to fail" institutions.
+- **Increased Income Inequality**
+    - Recovery disproportionately benefited higher-income individuals due to asset inflation (stocks, real estate).
+    - Middle and working-class households, particularly in Western countries, saw stagnant wages and job insecurity.
+- **Shift in Monetary Policy**
+    - Central banks adopted ultra-low interest rates and quantitative easing (QE), becoming standard tools.
+    - Financial markets became more dependent on central bank signals and interventions.
+- **Long-Term Unemployment and Underemployment**
+    - Structural shifts in labor markets, especially among youth and lower-skilled workers.
+    - Rise in gig economy and precarious employment conditions.
+- **Housing Market Changes**
+    - In some countries, homeownership declined and renting increased.
+    - Tighter lending standards made mortgages less accessible for first-time buyers.
+- **Rise of Populism and Political Instability**
+    - Economic dislocation fueled dissatisfaction with mainstream politics.
+    - Increased support for populist, nationalist, and anti-globalization movements.
