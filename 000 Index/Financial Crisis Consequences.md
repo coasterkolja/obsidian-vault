@@ -22,3 +22,40 @@
 - **Rise of Populism and Political Instability**
     - Economic dislocation fueled dissatisfaction with mainstream politics.
     - Increased support for populist, nationalist, and anti-globalization movements.
+
+- **Rising Systemic Risk via Shadow Banking**
+    - Growth of non-bank financial institutions (e.g., hedge funds, private equity) may introduce new vulnerabilities.
+- **Intergenerational Wealth Gaps**
+    - Younger generations face higher debt, unaffordable housing, and fewer job security guarantees.
+    - Could result in social unrest or demands for redistributive policies (e.g., universal basic income).
+- **Financial System Fragmentation**
+    - Continued skepticism may lead to decentralization via crypto-assets, DeFi (decentralized finance), and fintech.
+    - Potential weakening of traditional banking dominance.
+- **Policy Overcorrection Risks**
+    - Excessive regulation could stifle innovation or limit credit availability.
+    - Political backlash could lead to deregulation cycles that ignore systemic risk.
+- **Sovereign Debt Crises**
+    - Nations with high debt-to-GDP ratios remain vulnerable to bond market shocks.
+    - Potential for future crises in emerging markets or heavily indebted developed nations.
+- **Climate Risk and Financial Stability**
+    - Focus may shift to how environmental issues impact financial systems (e.g., stranded assets).
+    - Financial institutions may face stress from climate-related economic disruptions.
+
+## Dialogue
+
+- Begrüßung
+- Frage: wie isses in america
+- A: finanzkrise
+- F: Was das
+- A: Lehmann Brothers collapsed
+- Was das
+- A: Investement Bank
+- Wie du da drin
+- Muss fahren für den
+- wie kam
+- kreditrückzahlungen immer schwieriger, banken verlieren geld, lehmann brothers geht pleite, panik -> kaskaden
+- was heißt das für dich
+- job verloren muss jetzt husseln
+- bleibst du
+- muss ja
+- freestyle
