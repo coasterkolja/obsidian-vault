@@ -7,12 +7,11 @@ tags:
   - mathe/analysis
 created: 2025-05-05
 ---
-# Aufgabe 1
-a) $27.7259t$
-b)
-- $f'(1)=128.164$
-- $f'(2)=131.409$
-- $f'(3)=134.736$
-- $f'(5)=141.644$
-- $f'(10)=160.503$
-c)
+# Kaffee in der Tasse
+$$f(x)=20+50\cdot0.973^x$$
+$$
+\begin{align}
+u'(x)&=u(x)\cdot0.973 \\
+u(x)&=c\cdot e^{kt}
+\end{align}
+$$
