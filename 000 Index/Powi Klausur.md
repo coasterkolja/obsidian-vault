@@ -1,0 +1,7 @@
+- Kapitel 4
+- Freie Marktwirtschaft / Zentrale Verwaltungswirtschaft S. 163 - 166
+- Fokus: Soziale Marktwirtschaft S. 170  - 172
+- Ziele des Magischen Sechsecks S. 175 - 176
+- Strukturpolitik, Prozesspolitik, Ordnungspolitik S. 176
+- Ziele und Funktionen von Wettbewerb S. 162 - 163
+- Konjunktur und Konjunkturzyklus S. 187
