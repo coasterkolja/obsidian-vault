@@ -24,3 +24,4 @@ d) nicht beurteilbar
 
 # Aufgabe 4:
 Es ist nicht an eine Bedingung geknüpft. Hieße es: _"Wenn du möchtest, dass deine Maxime zu einem allgemeinen Gesetz wird, ..."_, handelte es sich um einen hypothetischen Imperativ.
+Die Maxime soll sich **verallgemeinern lassen** – sie muss **für alle Menschen in allen Situationen** gelten können, ohne in sich widersprüchlich zu werden.
