@@ -24,8 +24,8 @@ Ich möchte meine Zusage zum Theaterbesuch brechen, um stattdessen mit meinem Fr
 ### Maximenbildung
 Wenn mir spontan eine bessere Alternative angeboten wird, möchte ich eine vorherige Zusage (z. B. für ein Theaterstück) brechen, um das zu tun, was mir mehr Freude bereitet.
 ### Maximenprüfung
-Wie wäre es, wenn diese Maxime allgemeines Gesetz wäre?  
-→ Verbindliche Zusagen würden bedeutungslos, niemand könnte sich mehr auf andere verlassen.  
+Wie wäre es, wenn diese Maxime allgemeines Gesetz wäre?
+→ Verbindliche Zusagen würden bedeutungslos, niemand könnte sich mehr auf andere verlassen. 
 → Vertrauen und soziale Verlässlichkeit würden zerstört.
 ### Bewertung
 Die Handlung soll **nicht getan werden**, die Handlung ist **moralisch schlecht**.
@@ -41,3 +41,32 @@ Wie wäre es, wenn diese Maxime allgemeines Gesetz wäre?
 → Kreative Arbeit würde entwertet, das System bricht zusammen.
 ### Bewertung
 Die Handlung soll **nicht getan werden**, die Handlung ist **moralisch schlecht**.
+
+# Eigene Szenarien
+## Schwarzfahren
+### Handlung
+Ich kaufe mir kein Zugticket, weil ich glaube ich werde heute eh nicht kontrolliert.
+### Maximenbildung
+Wenn ich denke, dass ich nicht kontrolliert werde, will ich den öffentlichen Nahverkehr nutzen, ohne dafür zu bezahlen.
+### Maximenprüfung
+Wie wäre es, wenn diese Maxime allgemeines Gesetz wäre?  
+→ Niemand würde mehr Tickets kaufen, wenn Kontrolle unwahrscheinlich erscheint.  
+→ Das Bezahlsystem des ÖPNV würde zusammenbrechen.  
+→ Es gäbe keine Finanzierung für Infrastruktur, Busse oder Bahnen.  
+→ Die Grundlage für öffentliches Vertrauen und Solidarität (jeder zahlt seinen Anteil) würde zerstört.
+### Bewertung
+Die Handlung soll **nicht getan werden**, die Handlung ist **moralisch schlecht**.
+
+## Gewalt gegen Nazis
+### Handlung
+Ich möchte einem bekannten Neonazi auf einer Demonstration ins Gesicht schlagen, weil er menschenverachtende Parolen ruft und damit andere bedroht.
+### Maximenbildung
+Wenn jemand menschenverachtende Ideologien vertritt und damit andere bedroht, will ich ihn körperlich angreifen, um ihn zum Schweigen zu bringen oder abzuschrecken.
+### Maximenprüfung
+Wie wäre es, wenn diese Maxime allgemeines Gesetz wäre?  
+→ Jeder dürfte andere körperlich angreifen, sobald er ihre Meinung für gefährlich oder falsch hält.  
+→ Gewalt würde zum akzeptierten Mittel der politischen Auseinandersetzung.  
+→ Meinungsfreiheit (selbst in ihrer extremsten Form) würde durch Faustrecht ersetzt.  
+→ Es gäbe keine rechtsstaatliche Ordnung mehr, sondern Willkür und Gegengewalt.
+### Bewertung
+Die Handlung soll **nicht getan werden**, die Handlung ist **moralisch schlecht** (nach Kant).
