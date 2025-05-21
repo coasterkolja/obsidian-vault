@@ -53,7 +53,6 @@ Der Staat muss in der sozialen Marktwirtschaft als **"Schiedsrichter"** auftrete
 Der Staat sichert in der sozialen Marktwirtschaft den Wettbewerb, indem er Monopole verhindert und faire Marktbedingungen schafft. Gleichzeitig sorgt er für sozialen Ausgleich durch Renten-, Kranken- und Arbeitslosenversicherung. In wirtschaftlichen Krisen stabilisiert er die Konjunktur mit Steueranpassungen, Investitionen und Subventionen. Zudem schützt er Verbraucher und Umwelt durch Regulierung und Nachhaltigkeitsgesetze. Sein Eingriff erfolgt gezielt: so viel wie nötig, aber so wenig wie möglich, um die Marktfreiheit zu erhalten.
 
 ## Ist die soziale Marktwirtschaft im Grundgesetz verankert
-
 - Gesetz auf Selbstbestimmung
 - Berufsausübung frei wählbar aber durch Gesetze eingeschränkt
 - Recht auf Eigentum
