@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "000 Index",
+  "attachmentFolderPath": "900 Assets",
+  "spellcheck": true
+}
