@@ -32,5 +32,3 @@ created: 2025-05-14
 	- Wendet sich an Einwanderer
 	- Kriegsanleihen kaufen
 	- Gefühl der Dankbarkeit erzeugen
-
-- [ ] #task Analyse Schreiben  [due:: 2025-05-21]

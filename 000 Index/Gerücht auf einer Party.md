@@ -31,7 +31,12 @@ $f(x)=8001+399⋅e−0,2xf(x) = \frac{800}{1 + 399 \cdot e^{-0,2x}}f(x)=1+399⋅
 
 DGL:
 
-$f′(x)=0,00025⋅f(x)⋅(800−f(x))f'(x) = 0{,}00025 \cdot f(x) \cdot (800 - f(x))f′(x)=0,00025⋅f(x)⋅(800−f(x))$
+$$
+\begin{align}
+f'(x) &= 0 \\
+f'(x) &= 00025 \cdot f(x) \cdot (800 - f(x))
+\end{align}
+$$
 
 **Ableitung von f(x):**
 
@@ -71,7 +76,7 @@ Setze f(x)=400f(x) = 400f(x)=400:
 
 400=8001+399e−0,2x⇒1+399e−0,2x=2⇒399e−0,2x=1400 = \frac{800}{1 + 399 e^{-0{,}2x}} \Rightarrow 1 + 399 e^{-0{,}2x} = 2 \Rightarrow 399 e^{-0{,}2x} = 1400=1+399e−0,2x800​⇒1+399e−0,2x=2⇒399e−0,2x=1 e−0,2x=1399⇒−0,2x=ln⁡(1399)⇒x=−ln⁡(1399)0,2=ln⁡(399)0,2≈5,990,2≈29,95e^{-0{,}2x} = \frac{1}{399} \Rightarrow -0{,}2x = \ln\left(\frac{1}{399}\right) \Rightarrow x = \frac{-\ln\left(\frac{1}{399}\right)}{0{,}2} = \frac{\ln(399)}{0{,}2} \approx \frac{5{,}99}{0{,}2} \approx 29{,}95e−0,2x=3991​⇒−0,2x=ln(3991​)⇒x=0,2−ln(3991​)​=0,2ln(399)​≈0,25,99​≈29,95
 
-✅ **Nach ca. 30 Minuten** kennen **400 Personen** das Gerücht.
+	✅ **Nach ca. 30 Minuten** kennen **400 Personen** daWs Gerücht.
 
 #### **iv. Wann wissen _alle_ (≈800) Bescheid?**
 
