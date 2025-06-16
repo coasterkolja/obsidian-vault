@@ -5,5 +5,12 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "000 Index",
   "attachmentFolderPath": "900 Assets",
-  "spellcheck": true
+  "spellcheck": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
