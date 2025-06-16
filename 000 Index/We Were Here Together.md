@@ -1,52 +1,82 @@
-# The Signal
-## Koordinaten
-- C753 / B754
-- D195 / E169
-- B481 / C447
+# Cabin
+- P1 - Rad an der Küche nehmen (Gelbes Quadrat)
+- P1 - Tür zur Garage öffnen (Gelbes Quadrat)
+- P1 - Rad vom Kamin nehmen (Grünes Dreieck)
+- P1 - Rad vom Funkgerät nehmen (Blaues Plus)
+- P2 - Tür nach Draußen öffnen
+- P1 - Rad an Garagentor (Grünes Dreieck)
+- P2 - Rad vom Dachfenster (Blaues Quadrat)
+- P1 - Funkgerät einschalten (Blaues Plus)
+- P2 - Übers Dach
+- P2 - Tür öffnen
+- P2 - Rad mit Eis nehmen (Lilanes Fünfeck)
+- P2 - Rad auf den Herd (Lilanes Fünfeck)
+- P1 - Antenne einstellen
+- P2 - Funkgerät einstellen
+- P1 - Rad vom Herd nehmen (Lilanes Fünfeck) **SIGNAL**
+- P2 - Funkgerät finalisieren
+- P1 - Tür zu den Säulen öffnen (Lilanes Fünfeck)
+- P2 - Linken Hebel
+- P2 - Rad an Kartenraum (Blaues Quadrat)
+- P1 - Hebel vorne Rechts und Hebel Mitte Links
+- P1/P2 - Seerobbe, Funkturm, Hütte auf der Karte und ins Schneemobil
 
-## Tank
-- 7+7-8
+# Elevator
+- P2 - Diamant 1 Hoch
+- P1 - Diamant 1 Hoch
+- P2 - Auf Dynamit
+- P1 - Dynamit 2 Runter
+- P1 - Dynamit 1 Hoch
+- P2 - Spitzhacke 1 Hoch und davor warten
+- P1 - Spitzhacke 1 Hoch
+- P2 - Auf Spitzhacke
+- P1 - Spitzhacke 1 Runter
+- P2 - Dino 1 Runter
+- P1 - Lore 2 Hoch
+- P2 - Spitzhacke 1 Runter
+- P2 - Dino 1 Hoch
+- P1 - Über Spitzhacke auf Dino
+- P2 - Dino 1 Runter
+- P1 - Raus **SIGNAL** Am Hebel ziehen
+- P2 - Bis nach oben und am Hebel ziehen
 
-# The Wall
+# Gates
+ - P1 - Roten Hebel
+ - P2 - Blauen Hebel
+ - P1/P2 - Drehtür
+ - P2 - Richtung Gelber Hebel und bei blauer Tür **SIGNAL**
+ - P1 - Auf Drehtür stellen
+ - P2 - Blauer Hebel
+ - P1 - Roter Hebel
+ - P1/P2 - Bis zum Ende
 
-# Frozen Tracks
+## Bridge
+- P1 - Brücke
+- P2 - Schieben
 
-# Misty Valley
-- Stern
-- Sonne
-- Mond
-- Saturn
-- Sterne
-- Meteor
-- Doppelmond
-- Mond
-- Sonne
+# Board Game
+![[Together Board Game.png]]
 
-# Two Paths
-- 6→7 = B4→E2
-- 3→2 = B1→A3
-- 5→1 = C3→D2
-- 4→9 = E5→A4
-- 10→8 = B3→E1
+# Electricity
+- P1
+	1. **Grün-Rot**
+	2. **Einzeln Blau**
+	3. Grün-Gelb
+	4. **Einzeln Gelb**
+	5. Rot-Blau
+	6. **Blau-Blau**
+	- Hebel ziehen und Kristallsplitter holen
 
-Rot→Grün→Gelb→Blau→Rot
-
-# Strange Encounter
-1. Grün-Rot
-2. Einzeln Blau
-3. Grün-Gelb
-4. Einzeln Gelb
-5. Rot-Blau
-6. Blau-Blau
-
-# Overgrown
+## Pipes
 Lila: \_I\_ ; \_I ; \-
 Orange: + ; \_I ; -
 Grün: I- ; \_I ; -
 
-# Hidden Answers
+## Ladders
+## Plants
+## Rooms
 
-# The Soulstone
+## Potions
 - OH
 	- PA = Pristaxiofilexorate
 	- OT = Oxymuratoroxis
@@ -67,7 +97,7 @@ Grün: I- ; \_I ; -
 		- OX = Oxymurexoris
 	- PO = Primaxiofilexo
 
-# The Betrayal
+# Knights
 
 | Morgenstern | Schwert | Hammer  | Axt         |
 | ----------- | ------- | ------- | ----------- |
