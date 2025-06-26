@@ -1,3 +1,0 @@
-- Seitenzahlen im Literaturverzeichnis?
-- GBI Logo auf Deckblatt?
-- Erklärung in beiden Varianten?

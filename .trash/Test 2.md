@@ -1,1 +1,0 @@
-[[300 Boards/Schule#^5s0vou]]
