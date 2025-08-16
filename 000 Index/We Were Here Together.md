@@ -69,15 +69,16 @@
 
 # Board Game
 ![[Together Board Game.png]]
+
 Zahlen sind die Anzahl der Clicks um die richtige Farbe zu kriegen
 # Electricity
 - P1
-	1. **Grün-Rot**
-	2. **Einzeln Blau**
-	3. Grün-Gelb
-	4. **Einzeln Gelb**
-	5. Rot-Blau
-	6. **Blau-Blau**
+	- **Grün-Rot**
+	- **Einzeln Blau**
+	- Grün-Gelb
+	- **Einzeln Gelb**
+	- Rot-Blau
+	- **Blau-Blau**
 	- Hebel ziehen und Kristallsplitter holen
 
 ## Pipes
