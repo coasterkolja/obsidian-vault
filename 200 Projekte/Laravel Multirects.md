@@ -7,3 +7,5 @@ $model->redirectTo = 'courses.show'
 - collection muss `redirectTo`setzen
 
 Trait `HasMultipleRedirects`ist auf `Model` anwendbar
+
+# test
