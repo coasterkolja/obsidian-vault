@@ -21,6 +21,16 @@
 - P1 - Hebel vorne Rechts und Hebel Mitte Links
 - P1/P2 - Seerobbe, Funkturm, Hütte auf der Karte und ins Schneemobil
 
+1:
+- Runter: 3
+- Links: 2
+2:
+- Runter: max -1
+- Links: max
+3:
+- Hoch: 11
+- Rechts: 1
+
 # Elevator
 - P2 - Diamant 1 Hoch
 - P1 - Diamant 1 Hoch
@@ -35,7 +45,7 @@
 - P1 - Lore 2 Hoch
 - P2 - Spitzhacke 1 Runter
 - P2 - Dino 1 Hoch
-- P1 - Über Spitzhacke auf Dino
+- P1 - Über Spitzhacke in Dino
 - P2 - Dino 1 Runter
 - P1 - Raus **SIGNAL** Am Hebel ziehen
 - P2 - Bis nach oben und am Hebel ziehen
@@ -53,7 +63,6 @@
 # Bridge
 - P1 - Brücke
 - P2 - Schieben
-
 ![[Together Bridge 1.png]]
 ![[Together Bridge 2.png]]
 ![[Together Bridge 3.png]]
@@ -82,10 +91,17 @@ Zahlen sind die Anzahl der Clicks um die richtige Farbe zu kriegen
 	- Hebel ziehen und Kristallsplitter holen
 
 ## Pipes
-Lila: \_I\_ ; \_I ; \-
-Orange: + ; \_I ; -
-Grün: I- ; \_I ; -
+### Lila
+- **P2**: ┻ ┛━  
+- **P1**: ━ ┓┏
+### Grün
+- **P2**: ┣ ┛━  
+- **P1**: ━ ┓┳
+### Orange
+- **P2**: ┓x ━
+- **P1**: x┏ ━
 
+x = kein Rohr
 ## Ladders
 ## Plants
 ## Rooms
