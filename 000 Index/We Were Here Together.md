@@ -60,20 +60,34 @@
  - P1 - Roter Hebel
  - P1/P2 - Bis zum Ende
 
-## Bridge
+# Bridge
 - P1 - Brücke
 - P2 - Schieben
+![[Together Bridge 1.png]]
+![[Together Bridge 2.png]]
+![[Together Bridge 3.png]]
+![[Together Bridge 4.png]]
+![[Together Bridge 5.png]]
+![[Together Bridge 6.png]]
+![[Together Bridge 7.png]]
+![[Together Bridge 8.png]]
+![[Together Bridge 9.png]]
+![[Together Bridge 10.png]]
+![[Together Bridge 11.png]]
+![[Together Bridge 12.png]]
+
 # Board Game
 ![[Together Board Game.png]]
 
+Zahlen sind die Anzahl der Clicks um die richtige Farbe zu kriegen
 # Electricity
 - P1
-	1. **Grün-Rot**
-	2. **Einzeln Blau**
-	3. Grün-Gelb
-	4. **Einzeln Gelb**
-	5. Rot-Blau
-	6. **Blau-Blau**
+	- **Grün-Rot**
+	- **Einzeln Blau**
+	- Grün-Gelb
+	- **Einzeln Gelb**
+	- Rot-Blau
+	- **Blau-Blau**
 	- Hebel ziehen und Kristallsplitter holen
 
 ## Pipes
