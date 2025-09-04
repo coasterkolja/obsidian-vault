@@ -1,5 +1,5 @@
 ---
-title:
+title: Funktionstheorie
 class: "[[Mahler]]"
 author: Kolja Kahl
 tags:
