@@ -6,6 +6,7 @@ tags:
   - "#schule"
 created: 2025-09-08
 ---
+
 ### Vakuumphotozelle
 ![[Inverser Photoeffekt 2025-09-02 12.06.29.excalidraw]]
 
