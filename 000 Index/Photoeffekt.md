@@ -77,15 +77,15 @@ $\lambda = 2 \sin{\theta}$
 ![](https://virtuelle-experimente.de/bilder/elektronenbeugung/Bragg-Reflexionen-fuer-verschiedene-Wellenlaengen.svg)
 ![](https://virtuelle-experimente.de/bilder/elektronenbeugung/winkel_elektronenbeugung_graphit.svg)
 ![](https://virtuelle-experimente.de/bilder/elektronenbeugung/Qualitative_Darstellung_Elektronenbeugung.svg)
-
-$2r = 4.4cm$
-$U_{B} = 1.84kV$
-
 **Wellenlänge über Beschleunigungspassung ausrechnen:**
-$E = 2.95 \cdot 10^{-16}J$
-$v = 2.54 \cdot 10^{7}$
-$\lambda = 2.86 \cdot 10^{-11}m$
-
+$$
+\begin{align}
+U_{B}&=1.84 &\text{ kV} \\
+E&=2.95\cdot 10^{-16} &\text{ J} \\
+v&=2.54 \cdot 10^{7} &\text{ m/s}\\
+\lambda&=2.86 \cdot 10^{-11} &\text{ m}
+\end{align}
+$$
 **Wellenlänge über Maxima ausrechnen**
 $$
 \begin{align} \\
