@@ -87,4 +87,13 @@ $v = 2.54 \cdot 10^{7}$
 $\lambda = 2.86 \cdot 10^{-11}m$
 
 **Wellenlänge über Maxima ausrechnen**
-$\lambda = 2 \cdot d \cdot \sin(5) = 5.83$
+$$
+\begin{align} \\
+L&=125mm \\
+r&=22.mm \\
+d&=2.13 \cdot 10^{-10}m \\
+\frac{r}{L}&=0.176 \\ \\
+\theta &= \frac{\tan ^{-1}(0.176)}{2}\\&=4.9909° \\ \\
+\lambda &= 2 \cdot d \cdot \sin(5) \\&= 3.71 \cdot 10^{-11}m \\ \\
+\end{align}
+$$
