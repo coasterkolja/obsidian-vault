@@ -6,8 +6,7 @@ tags:
   - "#schule"
 created: 2025-09-10
 ---
-![[AB Aufgaben zur Kombinatorik.pdf]]
-
+[[AB Aufgaben zur Kombinatorik.pdf]]
 # Nr. 1
 2 von 7 Damen und 2 von 7 Herren
 $$
@@ -42,4 +41,13 @@ $$
 ## d)
 $$
 P = \frac{\binom{13}{1}\cdot\binom{6}{1}}{\binom{19}{2}} = \frac{78}{171} = 0.46\%
+$$
+
+# Nr .6
+## a)
+$$
+1-P(\text{alle haben verschiedene Geburtstage})
+$$
+$$
+1-\frac{365!}{(365-10)! \cdot 365^{10}}=0.117=11.7\%
 $$
