@@ -67,34 +67,4 @@ $E = q \cdot U = q \cdot 150V = 2.4 \cdot 10^{-17}J$
 $v = 7.26 \cdot 10^{6}$
 $\lambda = \frac{h}{M \cdot v} = 1.002 \cdot 10^{-10}m$
 
-# Bedingung für Konstruktive Interferenz
-![[Darstellung der Bragg-Bedingung.png]]
-$\Delta s = n \lambda$
-$\Delta s = 2 \sin{\theta}$
-
-1. Ordnung ($n=1$)
-$\lambda = 2 \sin{\theta}$
-
-![](https://virtuelle-experimente.de/bilder/elektronenbeugung/Bragg-Reflexionen-fuer-verschiedene-Wellenlaengen.svg)
-![](https://virtuelle-experimente.de/bilder/elektronenbeugung/winkel_elektronenbeugung_graphit.svg)
-![](https://virtuelle-experimente.de/bilder/elektronenbeugung/Qualitative_Darstellung_Elektronenbeugung.svg)
-**Wellenlänge über Beschleunigungspassung ausrechnen:**
-$$
-\begin{align}
-U_{B}&=1.84 &\text{ kV} \\
-E&=2.95\cdot 10^{-16} &\text{ J} \\
-v&=2.54 \cdot 10^{7} &\text{ m/s}\\
-\lambda&=2.86 \cdot 10^{-11} &\text{ m}
-\end{align}
-$$
-**Wellenlänge über Maxima ausrechnen**
-$$
-\begin{align} \\
-L&=125mm \\
-r&=22.mm \\
-d&=2.13 \cdot 10^{-10}m \\
-\frac{r}{L}&=0.176 \\ \\
-\theta &= \frac{\tan ^{-1}(0.176)}{2}\\&=4.9909° \\ \\
-\lambda &= 2 \cdot d \cdot \sin(5) \\&= 3.71 \cdot 10^{-11}m \\ \\
-\end{align}
-$$
+[[000 Index/Bragg-Bedingung für die konstruktive Interferenz von Wellen]]
